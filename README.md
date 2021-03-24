@@ -7,3 +7,5 @@
 **Python OS and Files interactions**
 [Python modules, python files interations, git -](https://nbviewer.jupyter.org/github/RBarroco/google-it-professional-certification/blob/master/python-os-files-iteractions.ipynb)
 
+**Regex python**
+[Regex](https://nbviewer.jupyter.org/github/RBarroco/google-it-professional-certification/blob/master/regex-expression-python.ipynb)
